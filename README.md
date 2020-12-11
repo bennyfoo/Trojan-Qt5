@@ -71,3 +71,6 @@ Credits:
 ## Sponsors
 ![MieLink](https://i.imgur.com/XmvuOOi.png)
 Use this [link](https://www.yangjuan.network/register?aff=COELWU) to get 10RMB initial balance!
+
+trojan服务器搭建完成后，可以根据脚本最终提供的下载链接下载命令行客户端，qt图形界面客户端以及linux客户端需要用到里面的配置文件，如果错过了此链接可以从服务器上直接拖下来，
+命令行客户端在服务器上保存的路径为/usr/share/nginx/html/ba2c1eec6e159d3d/trojan-cli.zip   
